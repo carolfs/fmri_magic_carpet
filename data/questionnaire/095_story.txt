@@ -1,0 +1,66 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+Please rate on a 0 to 4 scale how complex you thought the game was.
+2
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+If a genie came out of the lamp, I tried to chose that the same lamp again. So, I chosed the same carpet. But sometimes I chose the other carpet when I had the feeling that stong wind comes up.
+When e genie didn't came out anymore, i swiched to anther lamp and so on...
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Green
+What colour represents a taste rating?
+Orange
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+not easy but not very difficult
+How difficult did you find the food choice task?
+not easy but not very difficult
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+The tastyrating depends on what time we have (morning, evening,...)
+The heathyrating depends on how much (in gramm? or unit?) we eat.
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

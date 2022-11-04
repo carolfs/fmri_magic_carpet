@@ -1,0 +1,63 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+Please rate on a 0 to 4 scale how complex you thought the game was.
+2
+Please rate on a 0 to 4 scale how well you understood the game.
+3
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+I was alternating between 10 rounds of blue ones and 10 rounds of pink ones. Usually, I always got at least 7 of the desired color. I also chose a particular symbol of the two from that color and picked it several times in a row to see whether more than 50% of the rounds will lead to a coin or not. If yes, I sticked to the symbol, if not I switched to the other when the next set of 10 rounds of that color came. 
+
+I did that throughout the whole experiment.
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+
+What colour represents a taste rating?
+
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+
+
+
+About the food choice task
+
+Concerning my food choices…
+
+How difficult did you find the food ratings task?
+
+How difficult did you find the food choice task?
+
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

@@ -1,0 +1,69 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how well you understood the game.
+3
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+Please rate on a 0 to 4 scale how complex you thought the game was.
+1
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+As far as I understood, the wind changed the destination with some probability. Then, the reward for a given lamp was either 1 or 0 but sometimes changed for a short period, so usually it was some the same reward for a specific lamp, but I could be wrong.
+Initially I had to explore the results for all the lamps, to see which give 1 more frequently. Then, I tried to go to these lamps that seemed lke the usually returned 1.
+Finally, if a lamp was not giving the good reward, then I would try not to visit it.
+And lastly, as sometimes I could arrive to the wrong destination, I did not want to accidentally arrive to a mountain where both lamps were bad, so I tried to explore/visit different destinations first (as in, one lamp in each), but I am not sure if this had any effect.
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Green
+What colour represents a taste rating?
+Orange
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+easy
+How difficult did you find the food choice task?
+not easy but not very difficult
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+Personally I really do not like fish, although I think it may be healthy. Therefore, when given a blind choice, I would prefer to choose something tasty, to minimize the risk of getting fish at the end.
+
+Another thing is that some of the items were unknown to me, so I had to kind of guess what they were. Sometimes their name was in German.
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

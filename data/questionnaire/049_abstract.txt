@@ -1,0 +1,61 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how complex you thought the game was.
+3
+Please rate on a 0 to 4 scale how effortful playing the game was.
+4: extremely
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+The first 5 to six move I tried to find out a strategy like: the two lines box usually comes with the pink and then the horizontal symbol usually gived the coin. The same was for the box with "one line", blue lamp and then the vertical symbol. Once I found out that the strategy was succsesful I went down 5 to 6 times until it wasn't effectiv anymore. Then repeat, find out which box lead to which lamp and then find out the symbol that led to the coin. Actually it was more difficult in the second part, because I tried to find out if there was a coreletion with the left and right, maybe once the two lines was on the right and the pink lamp with the horizontal symbol on the left it give the coin but wasn't succsesful as I thought.
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Green
+What colour represents a taste rating?
+Orange
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+easy
+How difficult did you find the food choice task?
+not easy but not very difficult
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

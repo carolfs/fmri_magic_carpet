@@ -1,0 +1,69 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how complex you thought the game was.
+1
+Please rate on a 0 to 4 scale how effortful playing the game was.
+2
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+In the beginning, I just selected either of the boxes (and remembered the symbol of that box for later) to see which lamps turned up. Then I chose one of the two lamps that appeared. If I won a coin, I clicked on the same box and tried to get to the same lamp to click it again. If I was lucky and I won again, I tried to get to that lamp again and again. If I got two negative results in a row from that same lamp, I tried another one. If a lamp gave me a negative result with the first selection, I then already went on to another lamp and tried my luck there. My willingness to try a symbol multiple times increased according to how many times it had given me a positive result before (so if I won a coin only 1 time I would probably try only once more after a negative result, whereas if I won a coin 5 times I would probably try twice more after a negative result).
+
+Generally, I tried to remember which symbols had given me positive results, so I would be ready if the other color (than I expected from clicking on a certain box) appeared.
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Green
+What colour represents a taste rating?
+Orange
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+difficult: because 
+-------
+healthiness does not just depend on calories, but also on sugar amount, on the amount of the food in general, on what else you eat...
+-------
+How difficult did you find the food choice task?
+easy
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+No, it's all good :)
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

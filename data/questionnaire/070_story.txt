@@ -1,0 +1,68 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+Please rate on a 0 to 4 scale how complex you thought the game was.
+3
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+After a successful choice I tried to go for the same option again. Most often the colour changed (due to the wind) and you rarely got the chance to choose the same again right after. 
+After a failure I always remebered with single key words, which bottle I would choose according to the previous result. e.g. for the pink bottles I either remembered circle or tirangle, for the blue bottles I remembered cut (horizontal line) or stitch (more vertical line). This way I was ready to make quick decisions when unexpected wind came up. I repeated these key words over and over again until I had another failure and therefore needed to change my next choice.
+I found it difficult when both bottles of one colour just one after the other were failures. Should I now change again to the first or should I try to stick with the second one. I could not really figure out a pattern, which one rather changes his mind and might prefer to listen to music next time.
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Orange
+What colour represents a taste rating?
+Green
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+easy
+How difficult did you find the food choice task?
+not easy but not very difficult
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+I liked the genie game. Somehow the second part I found most "exhausting" concerning concentration.
+I was at some point a bit confused with the carpets, the blue mountains matches with the "wave" and the pink mountain matches with the "vase in the ground". In the second part I had the impression the wind came up very often. Which made me at some point insecure about how I remembered.
+The game seemed more tricky in the MRI than on the trial before.
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

@@ -1,0 +1,64 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Pink lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Blue lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+Please rate on a 0 to 4 scale how complex you thought the game was.
+3
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+Memorize which box contains which colors, after that try to memorise, would i get money if i choose the lamp with some symbol. If yes, try to find this lamp one more time. If no, firstly try to find this lamp one more time, if i do not get money i will try to check another lamp.
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Green
+What colour represents a taste rating?
+Orange
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Randomly assigned each trial
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+easy
+How difficult did you find the food choice task?
+easy
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+i just want to tell, that i do not like apples
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

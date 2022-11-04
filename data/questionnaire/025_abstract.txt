@@ -1,0 +1,65 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how complex you thought the game was.
+2
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+was very unsure about which color is where, so i focused more on the symbols. if a symbol is giving me succes, i clicked it again. after about 2 mistakes i changed the symbol (of the same color).
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Green
+What colour represents a taste rating?
+Orange
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+not easy but not very difficult
+How difficult did you find the food choice task?
+easy
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+ratings: what do i like 
+chosing: what do i like NOW (for example i like broccoli but would never have choosen this because i dont like raw broccoli now)
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+

@@ -1,0 +1,65 @@
+About the game you played in the fMRI scanner
+
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: blue
+Blue lamps
+When you selected the symbol below, which lamps did you usually get?
+Correct answer: pink
+Pink lamps
+
+
+About the game you played in the fMRI scanner
+
+Please rate on a 0 to 4 scale how well you understood the game.
+4: perfectly
+Please rate on a 0 to 4 scale how complex you thought the game was.
+2
+Please rate on a 0 to 4 scale how effortful playing the game was.
+3
+
+
+About the game you played in the fMRI scanner
+
+Please describe in detail the strategy you used to make your choices in the game.
+-------
+focusing on only one type of carpet first to check which mountain it leads to;
+remembering chance in percentage that how likelly the genie likes the song and pays, if more than half of the chance it comes out, i will not switch to pick another carpet, vice versa
+-------
+
+
+About the food choice task
+
+What colour represents a health rating?
+Orange
+What colour represents a taste rating?
+Green
+Where on the screen are the health ratings of the food items located if they are shown during decision trials?
+Lower half of the screen
+Where on the screen are the taste ratings of the food items located if they are shown during decision trials?
+Upper half of the screen
+
+
+About the food choice task
+
+Concerning my food choices…
+I tried to keep to the health goal most of the time, but sometimes chose a better tasting, less healthy food
+How difficult did you find the food ratings task?
+easy
+How difficult did you find the food choice task?
+not easy but not very difficult
+
+
+About the whole experiment
+
+Do you have any other feedback/issue/concern you would like to tell us about?
+-------
+would be nice to get to know what is happening when the machine was making different loud and strange noises, was a bit not a ease back then. ..
+-------
+
+
+About the whole experiment
+
+Thank you for participating in this experiment! Please make sure you completed the questionnaire,
+then submit it below.
+
+
