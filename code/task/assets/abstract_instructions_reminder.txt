@@ -1,0 +1,8 @@
+Remember that during the game:
+
+• One box will mostly give you the [color_common1] lamps, and the other mostly the [color_common2] lamps.
+• Your eyes will be tracked. Please keep them open.
+• In between trials, look at the cross.
+• Whenever you are deciding between boxes or lamps, blink as little as possible.
+
+Please press the left or right button to continue.

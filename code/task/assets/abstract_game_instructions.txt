@@ -1,0 +1,78 @@
+""
+game
+
+"The game will take place inside the fMRI scanner. You will perform [num_trials] trials and get paid for every gold coin the genies give you."
+lamps_[color_common1]
+tibetan.[fsymbol12][fsymbol11]
+
+"The lamp colors and symbols will be different in the game. The new colors are [color_common1] and [color_common2]."
+lamps_[color_common2]
+tibetan.[fsymbol21][fsymbol22]
+
+"The boxes also have different symbols written on them. Each box will give you a different pair of lamps unpredictably, but one will mostly give you the [color1] lamps, and the other mostly the [color2] lamps."
+abstract_carpets
+tibetan.[isymbol2][isymbol1]
+
+"The boxes’ borders will immediately start to glow, and you have 2 seconds to select a box."
+abstract_carpets_glow
+tibetan.[isymbol1][isymbol2]
+
+"Then a black screen will be briefly presented."
+nap
+
+"The lamps will immediately start to glow, and you should press the left or right arrow key to choose a lamp."
+lamps_[color_common1]_glow
+tibetan.[fsymbol11][fsymbol12]
+
+"You have 2 seconds to choose a lamp."
+slow_abstract
+
+"Remember from which lamps you got gold coins, because the lamps only change gradually and will probably stay similar in the short term, even though they will probably change in the long term."
+genie_coin
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"This is how the game involves skill as well as luck: finding which lamps are currently best and following when they change."
+genie_zero
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"Which box you choose is also important, because it influences which color of lamps you get, and often one color will be better than the other. So you can earn more money by figuring out which box works better."
+abstract_carpets
+tibetan.[isymbol1][isymbol2]
+
+"Remember, none of the lamps know what the others are doing. Just because the genie in a lamp rarely gives you a gold coin does not mean any others have to frequently give you a gold coin."
+genie_zero
+reward_[color_common2]
+tibetan.[fsymbol21]
+
+"Also, the way the lamps change is not synchronized or patterned. Don’t bother looking for patterns. The computer is not trying to catch you out or trick you."
+genie_coin
+reward_[color_common2]
+tibetan.[fsymbol22]
+
+"If the word BREAK appears on the screen, you can take a short break before continuing the game."
+break_instructions
+
+"As you play the game, your eyes will be tracked. It is very important to keep them open."
+fixation_point
+
+"In between trials, you will see a cross in the middle of the screen. Please look at the cross."
+fixation_point
+
+"Whenever you are deciding between boxes or lamps, please try to blink as little as possible."
+fixation_point
+
+"You will be paid CHF 0.60 for each gold coin the genies give you inside the fMRI scanner and CHF 25 for every hour spent outside the scanner."
+genie_coin
+reward_[color_common2]
+tibetan.[fsymbol21]
+
+"Good luck getting the coins! Please focus all your energy on playing the game as well as you can."
+genie_coin
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"You can finish reading these instructions now by pressing space or you can go back by pressing left."
+abstract_carpets
+tibetan.[isymbol1][isymbol2]

@@ -1,0 +1,117 @@
+"Thank you for agreeing to participate in this study about how people make decisions.
+
+You will play a game in which you will make choices and try to win as many gold coins as possible. But first you will complete a tutorial to learn about the game story and controls, then read the instructions for the actual game.
+
+The game will be played inside the fMRI scanner. The game allows you to earn money, and the tutorial allows you to learn a key part of the game. It will help you maximize your earnings during the game, so do your best to learn how to play the game during the tutorial.
+
+You can navigate these screens by pressing the arrow keys on the keyboard. If there is a right arrow on the bottom right of the screen, you can press the right arrow key to go to the next screen, and if there is a left arrow on the bottom left of the screen, you can press the left arrow key to go to the previous screen."
+
+""
+tutorial
+
+"Your goal in this game is to win as many gold coins as possible."
+genie_coin
+reward_[color_common1]
+tibetan.[fsymbol11]
+
+"You will see a pair of magic lamps. They are identified by a symbol and a color ([color_common1] or [color_common2]). Your job is to choose one of them."
+lamps_[color_common1]
+tibetan.[fsymbol11][fsymbol12]
+
+"The lamps will begin to glow, and you should press the left arrow key to choose the lamp on the left or the right arrow key to choose the lamp on the right."
+lamps_[color_common1]_glow
+tibetan.[fsymbol11][fsymbol12]
+
+"For each lamp, there’s a certain chance that a genie will come out of it and give you a gold coin."
+genie_coin
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"But the genie may also stay inside the lamp, and you won’t get a gold coin."
+genie_zero
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"The aim is to find a lamp with a high chance of gold coin and choose it."
+genie_coin
+reward_[color_common2]
+tibetan.[fsymbol21]
+
+"After a lamp is selected, you will find out if you won a gold coin or not."
+selected_lamp_[color_common2]
+tibetan.[fsymbol22].selected
+
+"It is important to understand how the computer decides if you win money or not. Each time you select a lamp the computer flips a weighted coin to decide if you win."
+selected_lamp_[color_common2]
+tibetan.[fsymbol21].selected
+
+"The lamp shown below on the left, for example, might have a 60% chance of gold coin. Other lamps might have a higher or lower chance. Not all lamps will be equally good."
+lamps_[color_common2]
+tibetan.[fsymbol21][fsymbol22]
+left_lamp_symbol
+
+"If you chose 10 times a lamp with a 60% change of gold coin, you would win a gold coin on about 6 times. Beyond this there are no patterns. For instance, wins and losses do not alternate."
+genie_zero
+reward_[color_common2]
+tibetan.[fsymbol21]
+
+"Each lamp will be sometimes on the right and sometimes on the left. Which side a lamp appears on doesn’t change your chance of winning."
+lamps_[color_common2]
+tibetan.[fsymbol22][fsymbol21]
+
+"Also, the chance that a genie will come out of a lamp and give you a gold coin can change slowly over time."
+genie_coin
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"Because the lamps can slowly change, a lamp that starts out better can turn worse later, or a worse one can turn better."
+genie_zero
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"The change is completely unpredictable, but also slow.  So a lamp that is good now will probably stay good for a while."
+genie_coin
+reward_[color_common1]
+tibetan.[fsymbol12]
+
+"There are two pairs of magic lamps containing genies: the [color_common1] lamps and the [color_common2] lamps."
+lamps_[color_common1]
+tibetan.[fsymbol12][fsymbol11]
+
+"There is also a pair of boxes with symbols written on them. In the game, you start by choosing between these boxes."
+abstract_carpets
+original.tibetan.[isymbol1][isymbol2]
+
+"Each box has a chance of giving you either of the two pairs of magic lamps."
+lamps_[color_common2]
+tibetan.[fsymbol22][fsymbol21]
+
+"Just like the magic lamps, the boxes are a bit unpredictable. One box has a higher chance of giving you the [color_common1] lamps, and the other box has a higher chance of giving you the [color_common2] lamps."
+abstract_carpets
+original.tibetan.[isymbol1][isymbol2]
+
+"The chances of these boxes leading to different colored lamps don’t change over time."
+abstract_carpets
+original.tibetan.[isymbol1][isymbol2]
+
+"Again, what matters is the symbol written on the box, not what side the box appears on."
+abstract_carpets
+original.tibetan.[isymbol2][isymbol1]
+
+"Note that when you choose a lamp, your chance of winning a gold coin depends only on its color and symbol, not which box you chose to get it."
+genie_coin
+reward_[color_common2]
+tibetan.[fsymbol21]
+
+"Before the game starts, you will play [num_trials] tutorial trials."
+abstract_carpets
+original.tibetan.[isymbol1][isymbol2]
+
+"To guide you through the tutorial, helpful messages will appear on the screen during the first few trials. Please read them carefully, because later on they will no longer appear."
+abstract_carpets
+original.tibetan.[isymbol2][isymbol1]
+
+"You can start the tutorial now by pressing space or you can press left to go back to these instructions."
+abstract_carpets
+original.tibetan.[isymbol1][isymbol2]
+space
