@@ -2,3 +2,6 @@ venv
 analysis_results
 logreg_model*
 hybrid_hier*
+hybrid_mixed*
+hybrid_single*
+hybrid_wonly*

@@ -21,7 +21,7 @@ from os import mkdir
 import pandas as pd
 from cmdstanpy import CmdStanModel
 from config import (
-    ANALYSIS_DIR,
+    ANALYSIS_RESULTS_DIR,
     CONDITIONS,
 )
 
@@ -30,8 +30,8 @@ model = "hybrid_hier"
 
 def main():
     stan_model = CmdStanModel(stan_file=f"{model}.stan")
-    if not exists(ANALYSIS_DIR):
-        mkdir(ANALYSIS_DIR)
+    if not exists(ANALYSIS_RESULTS_DIR):
+        mkdir(ANALYSIS_RESULTS_DIR)
     model_dat = {
         "N": 0,
         "num_trials": [],
@@ -66,14 +66,14 @@ def main():
         iter_sampling=20_000,
         chains=6,
         iter_warmup=80_000,
-        output_dir=join(ANALYSIS_DIR, f"fit_{model}_output"),
+        output_dir=join(ANALYSIS_RESULTS_DIR, f"fit_{model}_output"),
         refresh=1,
         max_treedepth=20,
         show_progress=True,
         adapt_delta=0.95,
     )
     print(fit.diagnose())
-    fit.summary().to_csv(join(ANALYSIS_DIR, f"{model}_fit.csv"))
+    fit.summary().to_csv(join(ANALYSIS_RESULTS_DIR, f"{model}_fit.csv"))
 
 
 if __name__ == "__main__":

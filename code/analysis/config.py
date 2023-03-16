@@ -17,3 +17,4 @@ import os
 
 CONDITIONS = ('abstract', 'story')
 ANALYSIS_DIR = os.path.dirname(os.path.realpath(__file__))
+ANALYSIS_RESULTS_DIR = os.path.join(ANALYSIS_DIR, 'analysis_results')

@@ -20,7 +20,7 @@ from os.path import join
 import numpy as np
 import pandas as pd
 from cmdstanpy import CmdStanModel
-from config import CONDITIONS, ANALYSIS_DIR
+from config import CONDITIONS, ANALYSIS_RESULTS_DIR
 
 def topm1(v):
     """Convert 0/1 value to -1/+1."""
@@ -76,7 +76,6 @@ def get_logreg_model_dat():
     }
     return model_dat
 
-ANALYSIS_RESULTS_DIR = join(ANALYSIS_DIR, 'analysis_results')
 SAMPLE_FN = join(ANALYSIS_RESULTS_DIR, 'logreg_samples')
 SAMPLESFIT_FN = join(ANALYSIS_RESULTS_DIR, 'logreg_analysis_fit.csv')
 ITER = 32000
