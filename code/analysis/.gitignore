@@ -6,3 +6,4 @@ hybrid_mixed*
 hybrid_single*
 hybrid_wonly*
 *.nii
+*.dat
